@@ -1,0 +1,12 @@
+{
+  "name": "cbrt-ui",
+  "displayName": "cbrt-ui",
+  "expo": {
+    "name": "cbrt-ui",
+    "slug": "cbrt-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
